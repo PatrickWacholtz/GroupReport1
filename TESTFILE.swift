@@ -12,3 +12,4 @@ class testFile {
     var z : Int = 7
 
 }
+//added change from john
