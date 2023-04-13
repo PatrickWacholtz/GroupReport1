@@ -6,4 +6,9 @@
 //
 
 import Foundation
-var y : Int = 5
+class testFile {
+
+    var y : Int = 5
+    var z : Int = 7
+
+}
