@@ -6,3 +6,4 @@
 //
 
 import Foundation
+var y : Int = 5
