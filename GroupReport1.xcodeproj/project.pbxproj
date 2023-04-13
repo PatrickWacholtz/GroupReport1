@@ -14,6 +14,12 @@
 		52A3CF15299566EE00CAC950 /* GroupReport1.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF13299566EE00CAC950 /* GroupReport1.xcdatamodeld */; };
 		52A3CF17299566F000CAC950 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 52A3CF16299566F000CAC950 /* Assets.xcassets */; };
 		52A3CF1A299566F000CAC950 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 52A3CF18299566F000CAC950 /* LaunchScreen.storyboard */; };
+		52A3CF222995675500CAC950 /* FirstViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF212995675400CAC950 /* FirstViewTableViewController.swift */; };
+		52A3CF2629969FC100CAC950 /* SecondViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF2529969FC100CAC950 /* SecondViewTableViewController.swift */; };
+		52A3CF282996A3ED00CAC950 /* ThirdViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF272996A3ED00CAC950 /* ThirdViewTableViewController.swift */; };
+		52A3CF2A2996A85200CAC950 /* FourthViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF292996A85200CAC950 /* FourthViewTableViewController.swift */; };
+		52A3CF2C2996ABEF00CAC950 /* FifthViewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF2B2996ABEF00CAC950 /* FifthViewViewController.swift */; };
+		52A3CF2E2996AC4F00CAC950 /* SixthViewTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52A3CF2D2996AC4F00CAC950 /* SixthViewTableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +32,12 @@
 		52A3CF16299566F000CAC950 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		52A3CF19299566F000CAC950 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		52A3CF1B299566F000CAC950 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		52A3CF212995675400CAC950 /* FirstViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewTableViewController.swift; sourceTree = "<group>"; };
+		52A3CF2529969FC100CAC950 /* SecondViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewTableViewController.swift; sourceTree = "<group>"; };
+		52A3CF272996A3ED00CAC950 /* ThirdViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdViewTableViewController.swift; sourceTree = "<group>"; };
+		52A3CF292996A85200CAC950 /* FourthViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FourthViewTableViewController.swift; sourceTree = "<group>"; };
+		52A3CF2B2996ABEF00CAC950 /* FifthViewViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FifthViewViewController.swift; sourceTree = "<group>"; };
+		52A3CF2D2996AC4F00CAC950 /* SixthViewTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SixthViewTableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +78,12 @@
 				52A3CF18299566F000CAC950 /* LaunchScreen.storyboard */,
 				52A3CF1B299566F000CAC950 /* Info.plist */,
 				52A3CF13299566EE00CAC950 /* GroupReport1.xcdatamodeld */,
+				52A3CF212995675400CAC950 /* FirstViewTableViewController.swift */,
+				52A3CF2529969FC100CAC950 /* SecondViewTableViewController.swift */,
+				52A3CF272996A3ED00CAC950 /* ThirdViewTableViewController.swift */,
+				52A3CF292996A85200CAC950 /* FourthViewTableViewController.swift */,
+				52A3CF2B2996ABEF00CAC950 /* FifthViewViewController.swift */,
+				52A3CF2D2996AC4F00CAC950 /* SixthViewTableViewController.swift */,
 			);
 			path = GroupReport1;
 			sourceTree = "<group>";
@@ -142,9 +160,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				52A3CF0F299566EE00CAC950 /* ViewController.swift in Sources */,
+				52A3CF2A2996A85200CAC950 /* FourthViewTableViewController.swift in Sources */,
+				52A3CF282996A3ED00CAC950 /* ThirdViewTableViewController.swift in Sources */,
 				52A3CF0B299566EE00CAC950 /* AppDelegate.swift in Sources */,
 				52A3CF0D299566EE00CAC950 /* SceneDelegate.swift in Sources */,
+				52A3CF2C2996ABEF00CAC950 /* FifthViewViewController.swift in Sources */,
+				52A3CF222995675500CAC950 /* FirstViewTableViewController.swift in Sources */,
+				52A3CF2E2996AC4F00CAC950 /* SixthViewTableViewController.swift in Sources */,
 				52A3CF15299566EE00CAC950 /* GroupReport1.xcdatamodeld in Sources */,
+				52A3CF2629969FC100CAC950 /* SecondViewTableViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
