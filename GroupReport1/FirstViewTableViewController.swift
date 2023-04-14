@@ -10,7 +10,7 @@ import UIKit
 
 class FirstViewTableViewController: UITableViewController {
 
-    let projectInfo : [String] = ["Timeline", "Ideas", "Planning","Design", "Further Strategy"]
+    let projectInfo : [String] = ["Timeline", "Ideas", "Planning","Design", "Further Strategy", "Group Members"]
     
     override func viewDidLoad() {
         super.viewDidLoad()
